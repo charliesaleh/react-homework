@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+.dragonballzlogo {
+  width: 150px;
+}
+
+nav{
+  background-color: red;
+  font-weight: bold;
+  border: rgb(255, 191, 0) solid 5px;
+}
+
+footer, section{
+  background-color: red;
+  font-weight: bold;
+  color: black;
+  border: rgb(255, 191, 0) solid 5px;
+}
+
+a {
+  color: white
+}
+
+h5 {
+  font-weight: bolder;
+}
